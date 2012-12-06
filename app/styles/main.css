@@ -1,0 +1,80 @@
+.login {
+	background-color: white;
+	border: 1px solid #D5D5D5;
+
+	position: relative;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	-webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, .075);
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.75);
+	padding-bottom: 20px;
+}
+.welcome {
+	width: 460px;
+	margin: auto;
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	margin-left: -230px;
+	display: block;
+	margin-bottom: 20px;
+}
+.welcome .page-header {
+	padding-left: 20px;
+	padding-bottom: 15px;
+	margin-top: 16px;
+	position: relative;
+}
+.login .padding20px {
+	padding: 0 20px;
+}
+body {
+	background-color: whiteSmoke;
+}
+h1 {
+	font-size: 28px;
+	font-weight: bold;
+	font-height: 22px;
+	font-family: inherit;
+	text-rendering: optimizelegibility;
+	margin: 0;
+	-webkit-margin-before: 0.67em;
+	-webkit-margin-after: 0.67em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+}
+.form input[type="text"], .form input[type="password"] {
+	width: 100%;
+	margin-bottom: 18px;
+	padding: 2px 10px 0 12px;
+	height: 38px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+i {
+	font-size: 100px;
+	display: inline-block;
+}
+.left-eye {
+	margin-left: 95px;
+}
+.right-eye {
+    margin-left: 5px;
+}
+.fail {
+	font-size: 20px;
+	margin-left: 250px;
+}
+.btn {
+	width: 116px;
+    height: 40px;
+}
+#inputAccount {
+	width: 54px;
+	margin-left: 150px;
+}
+#inputPassword {
+	width: 94px;
+	margin-left: 130px;
+}
