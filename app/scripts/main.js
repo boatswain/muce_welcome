@@ -9,7 +9,6 @@ require.config({
   }
 });
  
-require(['app'], function(app) {
-  // use app here
-  console.log(app);
+require(['random_face/RandomFace'], function() {
+	$('a').tooltip('show');
 });

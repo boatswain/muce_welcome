@@ -52,29 +52,22 @@ h1 {
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
+
 i {
 	font-size: 100px;
 	display: inline-block;
 }
-.left-eye {
-	margin-left: 95px;
-}
-.right-eye {
-    margin-left: 5px;
+
+a {
+	margin-left: 250px;
 }
 .fail {
 	font-size: 20px;
-	margin-left: 250px;
 }
 .btn {
 	width: 116px;
     height: 40px;
 }
-#inputAccount {
-	width: 54px;
-	margin-left: 150px;
-}
-#inputPassword {
-	width: 94px;
-	margin-left: 130px;
+a {
+	display: inline-block;
 }
